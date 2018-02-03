@@ -1,0 +1,2 @@
+Hi All
+This is a python programming course meant for basic to inetrmediate usage
